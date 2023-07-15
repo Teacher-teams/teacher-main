@@ -1,0 +1,6 @@
+[submodule "cy"]
+	path = cy
+	url = https://github.com/Teacher-teams/cy.git
+[submodule "zhangsan"]
+	path = zhangsan
+	url = https://github.com/Teacher-teams/zhangsan.git
